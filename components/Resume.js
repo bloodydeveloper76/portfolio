@@ -142,7 +142,7 @@ const Resume = () => {
             {/* Left Column */}
             <div className="text-left">
               <h4 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
-                What You'll Find
+                What You&apos;ll Find
               </h4>
               <ul className="space-y-3">
                 {[

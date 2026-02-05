@@ -139,8 +139,8 @@ const Contact = () => {
               Get In Touch
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-              Have a project in mind or just want to say hello? I'd love to hear from you.
-              Let's create something amazing together!
+              Have a project in mind or just want to say hello? I&apos;d love to hear from you.
+              Let&apos;s create something amazing together!
             </p>
             <div className="w-20 h-1 bg-blue-600 mx-auto rounded-full mt-6" />
           </motion.div>
@@ -150,10 +150,10 @@ const Contact = () => {
             <motion.div variants={itemVariants} className="space-y-8">
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                  Let's Connect
+                  Let&apos;s Connect
                 </h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-8">
-                  I'm always open to discussing new opportunities, creative projects,
+                  I&apos;m always open to discussing new opportunities, creative projects,
                   or just having a chat about technology and development.
                 </p>
               </div>
@@ -316,7 +316,7 @@ const Contact = () => {
                       className="p-4 bg-green-100 dark:bg-green-900 border border-green-300 dark:border-green-700 rounded-lg"
                     >
                       <p className="text-green-700 dark:text-green-300 text-sm">
-                        Message sent successfully! I'll get back to you soon.
+                        Message sent successfully! I&apos;ll get back to you soon.
                       </p>
                     </motion.div>
                   )}

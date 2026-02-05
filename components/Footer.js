@@ -140,7 +140,7 @@ const Footer = () => {
             {/* Contact Info */}
             <motion.div variants={itemVariants}>
               <h4 className="text-lg font-semibold mb-4 text-white">
-                Let's Connect
+                Let&apos;s Connect
               </h4>
               <div className="space-y-3">
                 <div>
